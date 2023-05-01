@@ -15,3 +15,4 @@
 - [Photopea](https://www.photopea.com/) - A free photoshop in browser
 
 - [mockaroo](https://www.mockaroo.com/) - Allows you to generate fake data
+- [roadmaps](https://roadmap.sh/roadmaps) - guides and paths to learn different tools or technologies
